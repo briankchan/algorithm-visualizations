@@ -1,0 +1,36 @@
+As a reminder, I want to know how well a visualization that you've imagined in your mind can be realized using the abstractions in my system, e.g.:
+
+- labeling parts of code
+- using those labels to define interesting points in the code's execution
+- drawing on the visualization canvas using expressions that reference variables from the program at those points in execution
+- setting transition properties to customize animation between those points
+
+
+With this in mind, please try to record any feedback you have while creating your visualization, including:
+
+- what tasks (e.g., drawing an array, adding "steps", changing the size of an item over time) are hard or tricky to complete (or alternatively, anything you wish was easier):
+
+- any tasks that were easier than you expected:
+
+- anything that you wanted to do, but couldn't (because the system does not support it, or because it would take too much time):
+
+- any design patterns that you discovered or liked (examples provided in the next section):
+
+- what you had to learn beyond the content in the instructions document (e.g., probably some CSS stuff):
+
+- how you were able to animate something in a way that you wouldn't have been able to without the system, or perhaps a new way you learned to think about algorithm visualizations:
+
+- anything else:
+
+
+Other kinds of feedback that I'm interested in, but aren't as helpful for my thesis:
+
+- reports of bugs in the system
+- issues with syntax (e.g., putting Javascript in JSON is gross, Java labels can be a bit clunky)
+- issues with drawing or layout that are overly specific to HTML/CSS (e.g., flexbox layout is hard, or "i want to draw a triangle but can't")
+- requests for more types of views/transitions
+- requests for supporting other data structures/languages/language features
+- requests for quality-of-life features (e.g., notifications for trace file generation success)
+
+
+You can give me your feedback by either adding it to this file and pushing it to your fork of the repo or by sending it to me on Slack/Discord (ideally with your Java and visualization JSON file), or by telling it to me verbally in a Calendly meeting if you prefer that.

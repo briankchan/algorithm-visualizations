@@ -1,0 +1,21 @@
+/*
+If you're sending this file to me, please fill out the following description:
+
+This visualization is meant to be used [in lecture to introduce / to show a failure case of / to show an answer to a question about / etc.] the algorithm.
+*/
+{
+	"traceFile": "./trace.json",
+	"frame": "yourvisualization.Main:main",
+	"steps": [
+		{"label": "yourLabel", "pause": true},
+	],
+	"views": [
+		{
+			"name": "defaultText",
+			"type": "text",
+			"content": "your visualization here",
+			"margin": "5em",
+			"fontSize": 20,
+		},
+	]
+}
